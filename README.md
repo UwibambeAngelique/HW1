@@ -1,11 +1,11 @@
 Assignment 1: Importing Data in R from a Statistical Package, a Database and a Web API
 
-Student Name: Uwibambe Angelique
-Registration number: 20252MBI056
-Programme: MSc in Big Data Analytics
-Course: R for Data Science (MSDA9113)
-Instructor: Dr. Pacifique Nizeyimana
-University: Adventist University of Central Africa (AUCA)
+**Student Name:** Uwibambe Angelique  
+**Registration number:** 20252MBI056  
+**Programme:** MSc in Big Data Analytics  
+**Course:** R for Data Science (MSDA9113)  
+**Instructor:** Dr. Pacifique Nizeyimana  
+**University:** Adventist University of Central Africa (AUCA)
 
 
 
