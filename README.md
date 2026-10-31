@@ -63,6 +63,12 @@ This project shows how R packages can import and process data from three differe
 | Database copy matches R data | yes (row count, missing values, mean income) |
 | World Bank API status | 200, 66 years returned (1960 to 2025) |
 
+## Population plot
+
+![Rwanda population, 1960 to 2025](images/rwanda_pop.png)
+
+*Rwanda's population from the World Bank API, with the 1994 drop annotated.*
+
 ## Notes
 
 - The sample is small (50 respondents)
